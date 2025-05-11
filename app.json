@@ -16,18 +16,18 @@
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true 
     },
     "WELCOME": {
       "description": "Put 'false' or 'true' to enable or disable WELCOME.",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true 
     },
     "AUTO_VIEW_STATUS": {
       "description": "Auto-view saved WhatsApp statuses.",
       "value": "true",
-      "required": false
+      "required": true 
     },
     "CHATBOT": {
       "description": "Set to true if you want your bot to autoreply messages.",
@@ -36,8 +36,8 @@
     },
     "AUTO_READ_MESSAGES": {
       "description": "Set to true if you want the bot to read all messages.",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
@@ -49,8 +49,8 @@
     },
     "AUTHOR": {
       "description": "Put Sticker Pack Author_Name.",
-      "value": "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋",
-      "required": false
+      "value": "steve",
+      "required": true
     }
   },
   "buildpacks": [
