@@ -1,7 +1,7 @@
-# Anita-V4
+# Ezio-V3
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By Temp Ezio ⚡</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/jd0s4p.jpg"/>       
@@ -24,7 +24,7 @@
 
 
 
-## Anita-V4 Deployment Methods
+## Ezio-V3 Deployment Methods
 ---
 1.  **Fork Repo First, [CLICK HERE](https://github.com/DavidCyrilTech/Anita-V4/fork) (A MUST) and Star ⭐ Repository for Courage.**
 2.  **Get SESSION ID BY [PAIRING CODE](https://pair.david-cyril.net.ng)** 
