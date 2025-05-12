@@ -1,5 +1,5 @@
 {
-  "name": "Queen_Anita-V4",
+  "name": "Ezio-Md-V3",
   "version": "4.0.0",
   "description": "A powerful Multi-Device WhatsApp Bot featuring various utilities and media tools.",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "David Cyril",
+  "author": "Temp Ezio",
   "license": "MIT",
   "dependencies": {
     "baileys-mod": "^6.8.2",
