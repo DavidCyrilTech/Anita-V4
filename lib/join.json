@@ -1,0 +1,17 @@
+[
+  {
+    "id": "6283123448708@s.whatsapp.net"
+  },
+  {
+    "id": "6285659595687@s.whatsapp.net"
+  },
+  {
+    "id": "628884344957@s.whatsapp.net"
+  },
+  {
+    "id": "6281802517868@s.whatsapp.net"
+  },
+  {
+    "id": "6281399172380@s.whatsapp.net"
+  }
+]
