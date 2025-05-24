@@ -19,6 +19,16 @@
       "value": "true",
       "required": true 
     },
+    "AUTO_STATUS_REACT": {
+      "description": "Set true to auto-react to Status.",
+      "value": "false",
+      "required": false
+    },
+      "ANTIDELETE": {
+      "description": "Set true to see deleted messages.",
+      "value": "false",
+      "required": false
+    },
     "WELCOME": {
       "description": "Put 'false' or 'true' to enable or disable WELCOME.",
       "value": "true",
