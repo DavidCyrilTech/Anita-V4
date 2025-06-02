@@ -1,14 +1,14 @@
 {
   "name": "Queen Anita V4",
-  "description": "A WhatsApp Bot Created By David Cyril",
+  "description": "Queen Anita V4 Whatsapp bot by Mr.Danesha",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {"noiseKey":{"private":{"type":"Buffer","data":"4CW9gzY6p61G/Yuzw70GpBejIdcsjf3NE2n9ICy27Wk="},"public":{"type":"Buffer","data":"3c4QjWL4vLW6gmOLslb+xHmU3EvaznDHannVdDBz5Es="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"6KN8YOebyW6byKlqo4Z+aC36n/+bJcRe+zfA9t2TsmI="},"public":{"type":"Buffer","data":"DhRgu6gL9zXDECS8i7VJ+iHNiZUz4u1mG11EGJsSMlY="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"KLvoq+BtcmL7/8dXIUx1AUMJfiJo5PWRn+gjPA/Iz24="},"public":{"type":"Buffer","data":"ttXQxcpP7A+6tu9xKAAm74j6vN8/+5OXTCXskKDUQi8="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"WJKdAUomZZWazK4c2t3HRpq4zKlFOubRP18ES02FdGQ="},"public":{"type":"Buffer","data":"trHghkuljcXhaBkEdwKMyKIBFHDsb2wqnyydvk63530="}},"signature":{"type":"Buffer","data":"50OuZy8LRwr7aEr8jmcPPGK1eu9sgTgftSdH94pVbKvvSRqOyZnWGp1UnWXgdAY5o6SC8GOAtQxNXK5Jh7owAQ=="},"keyId":1},"registrationId":190,"advSecretKey":"PFELGdTSxJc95xmQjmKymiuz9pr+Nm1G1cmZYfLhZOs=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"QU-lIRf9R9iGZzHlUw12Jg","phoneId":"c9e55856-a5af-4366-8fe8-4d6b4370d9ef","identityId":{"type":"Buffer","data":"Yygb78y2/p2J7qfcOF8t5w2xeUc="},"registered":false,"backupToken":{"type":"Buffer","data":"OplhBtRTaO9C8LjDMMDvBAdMqA8="},"registration":{},"account":{"details":"CMKmuogJEMfG9MEGGAIgACgA","accountSignatureKey":"Ochy99BO+TgMzxqQ2/1pvBoFxOblL7EP1YZxn1MBQR8=","accountSignature":"bf51K9kdnz5WQd6uGOyRbImp61bwE3GYbhozUt+CoESXRYc4v1zog5MyNOjSeqDcemGJBvwoFnKvd1KIhfetBg==","deviceSignature":"aRXXInRXqprJvMW1FCu+44LNBFK1IBSacIiYtFwDJ1kuWPjznbtKKDync7lZg2FRpu9eEYbS9c33KxILolbWAg=="},"me":{"id":"94764410596:8@s.whatsapp.net","name":"Doom"},"signalIdentities":[{"identifier":{"name":"94764410596:8@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BTnIcvfQTvk4DM8akNv9abwaBcTm5S+xD9WGcZ9TAUEf"}}],"platform":"smbi","lastAccountSyncTimestamp":1748837204}
       "description": "Put your SESSION_ID here.",
-      "value": ""
+      "value": "{"noiseKey":{"private":{"type":"Buffer","data":"4CW9gzY6p61G/Yuzw70GpBejIdcsjf3NE2n9ICy27Wk="},"public":{"type":"Buffer","data":"3c4QjWL4vLW6gmOLslb+xHmU3EvaznDHannVdDBz5Es="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"6KN8YOebyW6byKlqo4Z+aC36n/+bJcRe+zfA9t2TsmI="},"public":{"type":"Buffer","data":"DhRgu6gL9zXDECS8i7VJ+iHNiZUz4u1mG11EGJsSMlY="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"KLvoq+BtcmL7/8dXIUx1AUMJfiJo5PWRn+gjPA/Iz24="},"public":{"type":"Buffer","data":"ttXQxcpP7A+6tu9xKAAm74j6vN8/+5OXTCXskKDUQi8="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"WJKdAUomZZWazK4c2t3HRpq4zKlFOubRP18ES02FdGQ="},"public":{"type":"Buffer","data":"trHghkuljcXhaBkEdwKMyKIBFHDsb2wqnyydvk63530="}},"signature":{"type":"Buffer","data":"50OuZy8LRwr7aEr8jmcPPGK1eu9sgTgftSdH94pVbKvvSRqOyZnWGp1UnWXgdAY5o6SC8GOAtQxNXK5Jh7owAQ=="},"keyId":1},"registrationId":190,"advSecretKey":"PFELGdTSxJc95xmQjmKymiuz9pr+Nm1G1cmZYfLhZOs=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"QU-lIRf9R9iGZzHlUw12Jg","phoneId":"c9e55856-a5af-4366-8fe8-4d6b4370d9ef","identityId":{"type":"Buffer","data":"Yygb78y2/p2J7qfcOF8t5w2xeUc="},"registered":false,"backupToken":{"type":"Buffer","data":"OplhBtRTaO9C8LjDMMDvBAdMqA8="},"registration":{},"account":{"details":"CMKmuogJEMfG9MEGGAIgACgA","accountSignatureKey":"Ochy99BO+TgMzxqQ2/1pvBoFxOblL7EP1YZxn1MBQR8=","accountSignature":"bf51K9kdnz5WQd6uGOyRbImp61bwE3GYbhozUt+CoESXRYc4v1zog5MyNOjSeqDcemGJBvwoFnKvd1KIhfetBg==","deviceSignature":"aRXXInRXqprJvMW1FCu+44LNBFK1IBSacIiYtFwDJ1kuWPjznbtKKDync7lZg2FRpu9eEYbS9c33KxILolbWAg=="},"me":{"id":"94764410596:8@s.whatsapp.net","name":"Doom"},"signalIdentities":[{"identifier":{"name":"94764410596:8@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BTnIcvfQTvk4DM8akNv9abwaBcTm5S+xD9WGcZ9TAUEf"}}],"platform":"smbi","lastAccountSyncTimestamp":1748837204}"
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
@@ -16,8 +16,8 @@
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
     "AUTO_STATUS_REACT": {
       "description": "Set true to auto-react to Status.",
@@ -31,8 +31,8 @@
     },
     "WELCOME": {
       "description": "Put 'false' or 'true' to enable or disable WELCOME.",
-      "value": "false",
-      "required": false
+      "value": "true",
+      "required": true
     },
     "AUTO_VIEW_STATUS": {
       "description": "Auto-view saved WhatsApp statuses.",
@@ -51,7 +51,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
-      "value": "2349066528353"
+      "value": "94764410596"
     },
     "PUBLIC": {
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
