@@ -1,7 +1,7 @@
 {
-  "name": "Queen Anita V4",
-  "description": "A WhatsApp Bot Created By David Cyril",
-  "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
+  "name": "*NAZIM_X*",
+  "description": "A WhatsApp Bot Created By Decent-NX",
+  "logo": "https://files.catbox.moe/fhk2br.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
@@ -12,7 +12,7 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
-      "value": "."
+      "value": "/"
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
@@ -22,12 +22,12 @@
     "AUTO_STATUS_REACT": {
       "description": "Set true to auto-react to Status.",
       "value": "false",
-      "required": false
+      "required": true
     },
       "ANTIDELETE": {
       "description": "Set true to see deleted messages.",
       "value": "false",
-      "required": false
+      "required": true
     },
     "WELCOME": {
       "description": "Put 'false' or 'true' to enable or disable WELCOME.",
@@ -37,7 +37,7 @@
     "AUTO_VIEW_STATUS": {
       "description": "Auto-view saved WhatsApp statuses.",
       "value": "true",
-      "required": false
+      "required": true
     },
     "CHATBOT": {
       "description": "Set to true if you want your bot to autoreply messages.",
@@ -51,15 +51,15 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
-      "value": "2349066528353"
+      "value": "923701335041"
     },
     "PUBLIC": {
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "AUTHOR": {
       "description": "Put Sticker Pack Author_Name.",
-      "value": "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋",
+      "value": "decent-NX",
       "required": false
     }
   },
