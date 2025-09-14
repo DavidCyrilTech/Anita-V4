@@ -5,20 +5,19 @@ require('dotenv').config();
 const toBool = (value) => value === "true";
 
 // Owner & Bot Details
-global.owner = process.env.OWNER_NUMBER;
-global.anitav4 = process.env.BOT_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
-global.ownername = process.env.OWNER_NAME || "David Cyril";
-global.packname = process.env.PACK_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
-global.author = process.env.AUTHOR || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
-global.channelname = process.env.CHANNEL_NAME || "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋";
-global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
+global.owner = process.env.OWNER_NUMBER;923701335041,923229168159,923463206754,923218773997,923000288713
+global.anitav4 = process.env.BOT_NAME || "*NAZIM-X*";
+global.ownername = process.env.OWNER_NAME || "`Decen-NX`";
+global.packname = process.env.PACK_NAME || "*NAZIM-X*";
+global.author = process.env.AUTHOR || "`Decent-NX`";
+
 
 // Auto-Features
 global.autoTyping = toBool(process.env.AUTO_TYPING);
 global.autoRecord = toBool(process.env.AUTO_RECORD);
 global.autoViewStatus = toBool(process.env.AUTO_VIEW_STATUS);
 global.AUTO_STATUS_REACT = toBool(process.env.AUTO_STATUS_REACT);
-global.autoLikeEmoji = process.env.AUTO_LIKE_EMOJI || "💚";
+global.autoLikeEmoji = process.env.AUTO_LIKE_EMOJI || "🤭";
 global.LEVELUP = toBool(process.env.LEVELUP);
 global.ANTIVIEWONCE = toBool(process.env.ANTIVIEWONCE);
 
