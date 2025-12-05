@@ -7,11 +7,11 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here.",
+      "description": "1746532384",
       "value": ""
     },
     "PREFIX": {
-      "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
+      "description": ".",
       "value": "."
     },
     "AUTO_REACT": {
